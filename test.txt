@@ -2,5 +2,3 @@ Testing file
 
 Hello World!
 Updating content
-
-Hello ALl
